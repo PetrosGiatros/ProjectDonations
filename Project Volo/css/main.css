@@ -10,7 +10,9 @@
 .btn-blue {
     background-color: #4367CB;
     color: white !important;
+	margin-bottom: 15px;
 }
+
 
 .btn-blue:hover {
     background-color: #5f7ed3;
