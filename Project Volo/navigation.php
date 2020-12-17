@@ -1,4 +1,8 @@
-<html>
+<?php
+	include 'https://projectdonations.000webhostapp.com/phpconnect.php';
+?>
+<!DOCTYPE html>
+<html lang="en">
     <head>
     <link rel="stylesheet" href="css\main.css">
     <link rel="stylesheet" href="css\bootstrap.min.css">
@@ -48,6 +52,7 @@
                                 <small class="text-right">10/10/2010</small>
                             </div>
                         </div> 
+						
 				</div>
             </div>
 		</div>
