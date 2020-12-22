@@ -12,9 +12,19 @@
     color: white !important;
 	margin-bottom: 15px;
 }
+.btn-green {
+    background-color: #70a834;
+    color: white !important;
+	margin-bottom: 15px;
+}
+
 
 
 .btn-blue:hover {
+    background-color: #5f7ed3;
+}
+
+.btn-green:hover {
     background-color: #5f7ed3;
 }
 

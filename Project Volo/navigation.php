@@ -45,7 +45,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">SAMPLE TITLE</h5>
                                 <p class="card-text">FIRST ROW FIRST ROW FIRST ROW FIRST ROW FIRST ROW </p>
-                                <a href="https://www.google.gr/" class="btn btn-blue">Περισσότερα</a>
+                                <a href="https://www.google.gr/" class="btn btn-green">Περισσότερα</a>
                             </div>
                             <div class="card-footer text-muted">
                                 <small>από <a href="https://www.google.gr/">PETROS GIATROUTSIKOS</a>, </small>
